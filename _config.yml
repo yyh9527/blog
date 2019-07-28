@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: x–°À˛¿Ô
+subtitle: ¿≤¿≤¿≤¿≤¿≤¿≤
 description:
 keywords:
 author: John Doe
@@ -79,3 +79,8 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+deploy:
+  type: git
+  repo:  git@github.com:yyh9527/yyh9527.github.io.git
+  branch: master
