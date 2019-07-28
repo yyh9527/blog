@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: xĞ¡ËşÀï
-subtitle: À²À²À²À²À²À²
+title: å°å¡”é‡Œ
+subtitle: å•¦å•¦å•¦å•¦å•¦å•¦å°±
 description:
 keywords:
-author: John Doe
+author: yyy
 language:
 timezone:
 
@@ -77,8 +77,6 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type:
 
 deploy:
   type: git
